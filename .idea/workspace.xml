@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381fd11c-3a0a-4ab6-9cd5-b91ed5f3223c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AutoSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AutoSeleniumTest.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\JAVA开发工具\IDEA\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UrhPaH0poP9jnT8vLDiNKksVL5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/JAVA1.8/Selenium3/okio-1.14.0.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35402298" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dongmengting\Desktop\Java代码\cccisStudyMaven\src\main\resources" />
+      <recent name="C:\Users\Dongmengting\Desktop\Java代码\cccisStudyMaven\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AutoSeleniumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_231" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AutoSeleniumTest" />
+      <module name="cccisStudyMaven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_231" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AutoSeleniumTest" />
+      <module name="cccisStudyMaven" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AutoSeleniumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381fd11c-3a0a-4ab6-9cd5-b91ed5f3223c" name="Default Changelist" comment="" />
+      <created>1576120597159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576120597159</updated>
+      <workItem from="1576120601292" duration="4004000" />
+      <workItem from="1576201626026" duration="732000" />
+      <workItem from="1576209209626" duration="886000" />
+      <workItem from="1576461623879" duration="1946000" />
+      <workItem from="1576466776418" duration="206000" />
+      <workItem from="1576482981583" duration="5010000" />
+      <workItem from="1576489271814" duration="451000" />
+      <workItem from="1576489867384" duration="171000" />
+      <workItem from="1576547532199" duration="203000" />
+      <workItem from="1576550001153" duration="10000" />
+      <workItem from="1576575915371" duration="1218000" />
+      <workItem from="1576577291119" duration="205000" />
+      <workItem from="1576577599322" duration="11000" />
+      <workItem from="1576633585906" duration="554000" />
+      <workItem from="1576634247470" duration="461000" />
+      <workItem from="1576635886438" duration="420000" />
+      <workItem from="1576636346698" duration="866000" />
+      <workItem from="1576648145471" duration="493000" />
+      <workItem from="1576650162900" duration="16000" />
+      <workItem from="1576650239305" duration="63000" />
+      <workItem from="1576653120098" duration="987000" />
+      <workItem from="1576662768103" duration="273000" />
+      <workItem from="1576663435907" duration="2240000" />
+      <workItem from="1576668760027" duration="3365000" />
+      <workItem from="1576721862154" duration="619000" />
+      <workItem from="1576726838309" duration="818000" />
+      <workItem from="1576737540699" duration="1925000" />
+      <workItem from="1577327329646" duration="538000" />
+      <workItem from="1577415908545" duration="1181000" />
+      <workItem from="1577417650697" duration="59000" />
+      <workItem from="1577418322717" duration="83000" />
+      <workItem from="1577418777940" duration="74000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1576224740253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576224740253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
